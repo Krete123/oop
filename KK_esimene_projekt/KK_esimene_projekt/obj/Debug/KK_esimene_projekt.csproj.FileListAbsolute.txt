@@ -1,0 +1,10 @@
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\bin\Debug\KK_esimene_projekt.exe.config
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\bin\Debug\KK_esimene_projekt.exe
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\bin\Debug\KK_esimene_projekt.pdb
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.csproj.AssemblyReference.cache
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.KK_vorm1.resources
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.Properties.Resources.resources
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.csproj.GenerateResource.cache
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.csproj.CoreCompileInputs.cache
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.exe
+C:\Users\krete.kivit\source\repos\KK_esimene_projekt\KK_esimene_projekt\obj\Debug\KK_esimene_projekt.pdb
