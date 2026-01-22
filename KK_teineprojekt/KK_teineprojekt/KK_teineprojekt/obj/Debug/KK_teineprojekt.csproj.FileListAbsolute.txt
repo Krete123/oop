@@ -1,0 +1,12 @@
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.csproj.AssemblyReference.cache
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.KK_3.resources
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.KK_formmain.resources
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.Properties.Resources.resources
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.csproj.GenerateResource.cache
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\bin\Debug\KK_teineprojekt.exe.config
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\bin\Debug\KK_teineprojekt.exe
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\bin\Debug\KK_teineprojekt.pdb
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.exe
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.pdb
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.exe.config
