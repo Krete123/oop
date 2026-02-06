@@ -27,5 +27,14 @@ namespace KK_teineprojekt
 
 
         }
+
+        private void KKbutton2_Click(object sender, EventArgs e)
+        {
+            KKform2 F2 = new KKform2(); 
+            F2.button4 = this.KKbutton4;
+            F2.Visible = true;
+            F2.Show();  
+            KKbutton4.Enabled = false;  
+        }
     }
-}
+    }

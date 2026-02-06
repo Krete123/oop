@@ -10,3 +10,4 @@ C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\bin
 C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.exe
 C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.pdb
 C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.exe.config
+C:\Users\Krete\oopalused\oop\KK_teineprojekt\KK_teineprojekt\KK_teineprojekt\obj\Debug\KK_teineprojekt.KKform2.resources

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|c:\\users\\krete\\oopalused\\oop\\kk_teineprojekt\\kk_teineprojekt\\kk_teineprojekt\\kk_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kk_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\kk_teineprojekt\\kk_formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kk_formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\kk_teineprojekt\\kk_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kk_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|c:\\users\\krete\\oopalused\\oop\\kk_teineprojekt\\kk_teineprojekt\\kk_teineprojekt\\kk_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kk_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\kk_teineprojekt\\kk_formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kk_formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|c:\\users\\krete\\oopalused\\oop\\kk_teineprojekt\\kk_teineprojekt\\kk_teineprojekt\\kkform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kkform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|c:\\users\\krete\\oopalused\\oop\\kk_teineprojekt\\kk_teineprojekt\\kk_teineprojekt\\kkform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kkform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|c:\\users\\krete\\oopalused\\oop\\kk_teineprojekt\\kk_teineprojekt\\kk_teineprojekt\\kk_formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kk_formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|c:\\users\\krete\\oopalused\\oop\\kk_teineprojekt\\kk_teineprojekt\\kk_teineprojekt\\kkform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5ED8CD-30C3-4C59-9FCD-61FC5CF91DA5}|KK_teineprojekt\\KK_teineprojekt.csproj|solutionrelative:kk_teineprojekt\\kkform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +46,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KK_3.cs",
-              "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_3.cs",
-              "RelativeDocumentMoniker": "KK_teineprojekt\\KK_3.cs",
-              "ToolTip": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_3.cs",
-              "RelativeToolTip": "KK_teineprojekt\\KK_3.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "KKform2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KKform2.Designer.cs",
+              "RelativeDocumentMoniker": "KK_teineprojekt\\KKform2.Designer.cs",
+              "ToolTip": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KKform2.Designer.cs",
+              "RelativeToolTip": "KK_teineprojekt\\KKform2.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwGsAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T11:30:56.281Z",
+              "WhenOpened": "2026-02-06T12:43:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KK_formmain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_formmain.Designer.cs",
+              "RelativeDocumentMoniker": "KK_teineprojekt\\KK_formmain.Designer.cs",
+              "ToolTip": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_formmain.Designer.cs",
+              "RelativeToolTip": "KK_teineprojekt\\KK_formmain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:49:53.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KKform2.cs",
+              "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KKform2.cs",
+              "RelativeDocumentMoniker": "KK_teineprojekt\\KKform2.cs",
+              "ToolTip": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KKform2.cs",
+              "RelativeToolTip": "KK_teineprojekt\\KKform2.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwH4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:27:28.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "KKform2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KKform2.cs",
+              "RelativeDocumentMoniker": "KK_teineprojekt\\KKform2.cs",
+              "ToolTip": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KKform2.cs [Design]",
+              "RelativeToolTip": "KK_teineprojekt\\KKform2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:22:16.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KK_formmain.cs",
               "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_formmain.cs",
               "RelativeDocumentMoniker": "KK_teineprojekt\\KK_formmain.cs",
               "ToolTip": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_formmain.cs",
               "RelativeToolTip": "KK_teineprojekt\\KK_formmain.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T11:18:48.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "KK_3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_3.cs",
               "RelativeDocumentMoniker": "KK_teineprojekt\\KK_3.cs",
@@ -72,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KK_formmain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Krete\\oopalused\\oop\\KK_teineprojekt\\KK_teineprojekt\\KK_teineprojekt\\KK_formmain.cs",
               "RelativeDocumentMoniker": "KK_teineprojekt\\KK_formmain.cs",

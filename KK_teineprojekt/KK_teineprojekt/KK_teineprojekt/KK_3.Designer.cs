@@ -54,6 +54,7 @@
             this.KK_textBox1.Name = "KK_textBox1";
             this.KK_textBox1.Size = new System.Drawing.Size(239, 53);
             this.KK_textBox1.TabIndex = 2;
+            this.KK_textBox1.Text = "df";
             // 
             // KK_listBox1
             // 

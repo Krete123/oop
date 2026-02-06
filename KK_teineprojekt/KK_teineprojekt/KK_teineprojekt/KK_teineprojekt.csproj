@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KKform2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KKform2.Designer.cs">
+      <DependentUpon>KKform2.cs</DependentUpon>
+    </Compile>
     <Compile Include="KK_3.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +72,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="KKform2.resx">
+      <DependentUpon>KKform2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="KK_3.resx">
       <DependentUpon>KK_3.cs</DependentUpon>
     </EmbeddedResource>
